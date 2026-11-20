@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_title": "ViceAtlas v1.0.0 – Leonida Harita & Hikâye Rehberi",
+  "release_date": "21.11.2026",
+  "force_update": false,
+  "custom_announcement": "Yeni sürümümüz yayınlandı! Leonida haritası ve görev rehberi güncellendi.",
+  "apk_download_url": "https://github.com/K3N1903/ViceAtlas/raw/main/ViceAtlas-v1.0.0-release.apk",
+  "release_page_url": "https://github.com/K3N1903/ViceAtlas",
+  "changelog": [
+    "Z0–Z6 (0.5 m/px) yüksek çözünürlüklü tek güncel Leonida haritası ve 515 yerleşik çevrimdışı karo",
+    "Z4 yüksek detay şehir ve kara karoları için canlı ilerleme çubuklu çevrimdışı önbellek indirici",
+    "19 interaktif harita sembol kategorisi (Güvenli Ev, Silah, Rehinci, Modifiye, Benzinlik, Kulüp, Havalimanı, Marina vb.)",
+    "Koleksiyonlar ekranında yana kaydırma olmadan çoklu sembol aktifleştirme/kapatma kutucukları",
+    "Chapter 1–5 (93 Ana Görev) + Yan Görevler için görev ismi üstte, detayları gizli SPOILER koruma sistemi",
+    "Görev kartlarında Ödül / Açılan Özellik ve Seçim Sonucu / Taktik İpucu rozetleri",
+    "GitHub üzerinden otomatik yeni sürüm kontrolü ve güncelleme sonrası sürüm notları penceresi"
+  ]
+}

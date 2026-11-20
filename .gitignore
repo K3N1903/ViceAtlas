@@ -1,0 +1,23 @@
+# =============================================================================
+# VICEATLAS GÜVENLİ DAĞITIM DEPOSU (.gitignore)
+# Kaynak kodların (lib/, android/, ios/, pubspec.yaml vb.) GitHub'a yüklenmesini
+# ve çalınmasını engellemek için YALNIZCA dağıtım dosyalarına izin verilir.
+# =============================================================================
+
+# Varsayılan olarak projedeki tüm kaynak kodları ve klasörleri gizle:
+*
+
+# Yalnızca GitHub'da görünmesi gereken dağıtım dosyalarına izin ver:
+!.gitignore
+!README.md
+!version.json
+!ViceAtlas-v*-release.apk
+!ViceAtlas-release.apk
+
+# README.md içinde gösterilen resmi ViceAtlas logolarına izin ver:
+!assets/
+assets/*
+!assets/images/
+assets/images/*
+!assets/images/viceatlas_logo.png
+!assets/images/viceatlas_icon.png
